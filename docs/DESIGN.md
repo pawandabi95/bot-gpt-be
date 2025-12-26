@@ -270,3 +270,8 @@ Logging is added around:
 ## 12. Conclusion
 
 BOT GPT demonstrates a **clean, scalable, and production-oriented backend design** for conversational AI systems, focusing on engineering clarity, reliability, and real-world constraints rather than model experimentation.
+
+## NOTE
+User management is intentionally kept out of scope for this assignment. 
+The architecture supports adding a User entity and associating conversations 
+with users without changes to core flows.
